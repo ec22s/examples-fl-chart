@@ -1,5 +1,5 @@
 # examples-fl-chart
-Flutter&thinsp;のグラフ用パッケージ&thinsp;[<ins>FL Chart</ins>](https://github.com/imaNNeo/fl_chart)&thinsp;の公式サンプルのWeb用テスト
+Flutter&thinsp;のグラフ用パッケージ&thinsp;[<ins>FL Chart</ins>](https://github.com/imaNNeo/fl_chart)&thinsp;の公式サンプルの&thinsp;Web&thinsp;用テスト
 
 - 公式リポジトリから用いたもの
 
@@ -54,8 +54,7 @@ Flutter&thinsp;のグラフ用パッケージ&thinsp;[<ins>FL Chart</ins>](https
 
 - 起動時の&thinsp;Chrome&thinsp;画面
 
-  <img height=256 src="">
-  TODO: ↑ 画像挿入
+  <img height=256 src="https://github.com/user-attachments/assets/8371538e-0677-429c-8202-05d5ea288918" />
 
 <br>
 
