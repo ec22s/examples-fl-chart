@@ -1,4 +1,4 @@
-import 'package:fl_chart_app/util/app_helper.dart';
+import 'util/app_helper.dart';
 
 class Urls {
   static const flChartUrl = 'https://flchart.dev';
