@@ -140,7 +140,7 @@ packages:
   fl_chart:
     dependency: "direct main"
     description:
-      path: fl_chart
+      path: fl_chart_latest
       relative: true
     source: path
     version: "1.2.0"
